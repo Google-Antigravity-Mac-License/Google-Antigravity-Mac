@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://mac009.com/uploads/20251119/5c9e95d70c9cb87bc2724867a8de9fc5.png" width="200" alt="Google Antigravity application logo"><br>
- <a href="https://app-quick-app.github.io/.github/GoogleAntigravity">
+ <a href="https://gnomik-gomik-apps.github.io/.github/GoogleAntigravity">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Google Antigravity macOS">
  </a><br><br>
  <div align="center">
